@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "room-expenses-491009",
+  "private_key_id": "3dbe083e68b25040cb3f8e33084f2e9ec31e1349",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOmjiW60zZU4lB\nyfjLPdm5uXXD3eGUGKZoXl/bgNa8PpOjetg9pckBUv7K3Xa7ZRN608OytC6G4fUJ\nHs8NjokFOxlE5SPx9San4Jwcmy4p6/EZzwU+VUMCfpt1b47WPAOpQ3ROMaTwrV06\n+MKRWT1ZQHPZWwlxa8/rmQ04PPon0lyLuYG0G6OuIVeSPMkOqWr26NutyM4RKeis\nJT+WakH3Is89Lb/bbf4YvJm5a+0Qylc+pjlFiI9sXZvFh6y85w96jS3o/AvajPFV\ni5Sajc4KHcvFhkMGl9/OnCD+9NP1XarzpySPp2hncAxCD06OkqnQ8sdGoqY15A2A\nZbRfa8SlAgMBAAECggEAE7Ho9h4dN9R6T664zGsrf8R5wP+8WtlUt7tTaQHpto1C\nlsGFrq7IsBsg1ebxxCB5EGryi20YyFvu930b4N93GWwOVx5+5DhqBHPpfeKfLnjj\nBYJSLiSDnE/Ecxf85lhXQwH+qtuZrSXhrtb6+U8oBYOa55wBlPHhosR22acac8Qy\nfF+yFz2BeDhajXK67bWgn0n8i3L89HhxF58489WEZCW0s4yCGfSu9Cha3AaiQKxh\nPuoM+W56grJELLO5vMT8CNUbHq99AzbkCOPOutnQoF9ZrFRAVzAxiUC/I1GQnR6o\neS8/1Y2NsYZlrzsCz1Wku8FTICgx67/KBWxp7eBQ+wKBgQD4A4HDj//rvhY+bP0K\nK6zsEV8x8V98wCZQf3t1rB3Ol6GWwwoeYWOJ8bsF6r/QHP6JxikR3dWRbfayLdRS\nBxic7qP7WCCIW74HW31KI38/aR5E9o532847uH+yRKRAjfvRiYJUzBpM3UaNFhNl\ndBqQ6ChIZ/9nbhbKErUK0Tw0nwKBgQDVQVd1vQc4whh3QYLZe5m/3j1PcnfZAvAR\nDV1n2z213vp0mXo/quS9GMuR3aZDNjFi64SYgCn9bvPq4ndTj1yKhnSPaAph7WhR\nwiulQyNQB5/dhxP1O1x4fVwnwQbM8pafgD3OcLOYRMPOJgjRA/7YaqnNIqU1eyrX\npuAT+s3cOwKBgETSZE3qRbAbPXzxLX6HBCM15t6rBj5N69PmrFHJAzRy60o0sTgg\n+kgrJiTMMZIEmbWNoZPtpPgINa7X/NUOVwwlRKfYmp58Js1P3AKYuxTTjKzCZmJo\nQmBcIENNvO6U9837hIkXYiz2Mj+wYo2CnGSdp6AAC+WdrQFCE67+xOAtAoGBAIDp\nk/Yvg6sS4flNV80ig4nRzZw2JS7BMOAOBTXf+Yj0ttA/awALzWRmFcEijPw6SVZz\n6t7JMxjptnd52QphMl7m8pUyHnyeKB6sUvf/AtzBDym6Gx12eeq4VToO3I6N4vGe\ncz5VMKvOfdMjeNbpJGgs6mKAHACdaQOd8/z/8uu7AoGBALUlGQJhWqPT5SbAT/Hh\njrGQtHaJrL4VIzx3O9KwL2NC9c9wU4Xm23O6FmOGopd0G87l/fICT4/1AR6WKQ5F\nVvfgo3uv/ERneP4rZZKHa1WuK/ca3wGlWxVKcdLTaaAYYKxVhWu585K9UFgH9bI7\n2WfeTpA5qie8bY+LlKsmjj9H\n-----END PRIVATE KEY-----\n",
+  "client_email": "room-expense-bot@room-expenses-491009.iam.gserviceaccount.com",
+  "client_id": "109393326601231213449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/room-expense-bot%40room-expenses-491009.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
